@@ -1,0 +1,15 @@
+#text {
+    border: none;
+    border-bottom: 2px solid purple;
+}
+
+#todolist {
+    background-color: purple;
+    color: white;
+}
+
+#outer {
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+}
